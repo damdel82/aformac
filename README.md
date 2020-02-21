@@ -3,7 +3,7 @@ apprentissage Github
 
 # c'est un h1 
 ## prerequis
-** Utilisation des bibliothèques front avec : ** 
+** Utilisation des bibliothèques front avec :** 
  * Bootstrap
  * jQuery
  * dataTables
