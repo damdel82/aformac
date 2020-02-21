@@ -2,7 +2,17 @@
 apprentissage Github
 
 # c'est un h1 
-## c'est un h2
+## prerequis
+** Utilisation des bibliothèques front avec : ** 
+ * Bootstrap
+ * jQuery
+ * dataTables
+ * Fontawesome
+ ** utilisation des bibliothèques back avec : **
+ * Twig
+ * Smarty
+ ###installation
+ ```shell composer require twig:3.0 ```
 ###### c'est un h6
 * italic *
 ** bold **
